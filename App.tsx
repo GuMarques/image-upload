@@ -29,7 +29,7 @@ export default function App() {
           {
             headers: {
               Authorization:
-                "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoxLCJ1c2VyX3V1aWQiOiIyMGIwMTJiZS02ZmY0LTQwNjctOTc2NC05ZGJjZmNkN2ZlMDgiLCJpYXQiOjE2NTYwMDQxNzAsImV4cCI6MTY1NjA5MDU3MH0.KZVAzP9ZjkN0EckUTUG3F3JVSlp7yrx1KMI58fkC-GQ",
+                "Bearer ---",
               "content-type": "multipart/form-data",
             },
           }
